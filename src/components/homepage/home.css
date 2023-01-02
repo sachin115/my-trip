@@ -1,0 +1,25 @@
+.card {
+    margin-top: 5vh;
+    height: 50vh;
+    width: 20%;
+    margin-left: 5vh;
+}
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url(https://images.pexels.com/photos/2422461/pexels-photo-2422461.jpeg?cs=srgb&dl=pexels-josh-hild-2422461.jpg&fm=jpg);
+    height: 50vh;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .hero-input {
+    width: 60%;
+    height: 40px;
+    padding: 20px;
+    border-radius: 8px;
+    border: none;
+    margin: 20vh 200px;
+  }

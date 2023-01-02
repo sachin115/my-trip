@@ -1,0 +1,14 @@
+.header {
+    height: 8vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.btn {
+    margin-top: 5px;
+    margin-right: 16px;
+}
+
+
